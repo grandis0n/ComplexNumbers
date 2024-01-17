@@ -1,0 +1,9 @@
+# ninja log v5
+51	1638	7271844835062618	CMakeFiles/complex.dir/ComplexTest.cpp.obj	3d932dc3910eb2bf
+59	1689	7271844835765852	CMakeFiles/complex.dir/ComplexNum.cpp.obj	c1830cf8a17d5b7c
+1689	2096	7271844839415958	complex.exe	3379d47656b8717c
+37	604	7271846422328800	CMakeFiles/complex.dir/ComplexTest.cpp.obj	3d932dc3910eb2bf
+4	613	7271846422390699	CMakeFiles/complex.dir/ComplexNum.cpp.obj	c1830cf8a17d5b7c
+613	881	7271846425026021	complex.exe	3379d47656b8717c
+4	546	7271848944622441	CMakeFiles/complex.dir/ComplexTest.cpp.obj	3d932dc3910eb2bf
+546	728	7271848946493360	complex.exe	3379d47656b8717c
