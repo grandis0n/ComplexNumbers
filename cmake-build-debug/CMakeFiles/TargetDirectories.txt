@@ -1,3 +1,0 @@
-C:/Users/trexy/CLionProjects/laba/complex/cmake-build-debug/CMakeFiles/complex.dir
-C:/Users/trexy/CLionProjects/laba/complex/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/trexy/CLionProjects/laba/complex/cmake-build-debug/CMakeFiles/rebuild_cache.dir
